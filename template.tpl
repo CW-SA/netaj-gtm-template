@@ -15,7 +15,12 @@ ___INFO___
   "description": "Netaj is an AB testing, heatmaps, session recordings, and conversion rate optimization platform. This tag loads the Netaj tracking script on your website. Enter your Organization ID from the Netaj dashboard to get started.",
   "containerContexts": [
     "WEB"
-  ]
+  ],
+  "tosAccepted": true,
+  "termsOfService": {
+    "hasTermsOfService": true,
+    "termsOfServiceUrl": "https://netaj.io/en/terms"
+  }
 }
 
 
