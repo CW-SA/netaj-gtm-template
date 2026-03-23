@@ -1,5 +1,5 @@
 homepage: "https://netaj.io"
 documentation: "https://netaj.io/en/docs/gtm"
 versions:
-  - sha: 848879c097d3a590f9d701ac31dba1768362aa47
+  - sha: 5d968ed4df902656dc4d8c3bd54b1c76287ee4a7
     changeNotes: Initial release.
